@@ -27,7 +27,7 @@ export function HomePage() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('/NOS_1.jpg')`,
+            backgroundImage: `url('/DavydTalisson2/NOS_1.jpg')`,
             transform: `translateY(${scrollY * 0.3}px)`,
           }}
         />

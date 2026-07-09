@@ -11,7 +11,7 @@ const chapters = [
     subtitle: 'Quando tudo comeca',
     description:
       'Foi como se o universo tivesse conspirado para nos unir. Um olhar, um sorriso, e algo dentro de mim disse que voce era especial. Naquele momento, comecou a historia mais linda da minha vida.',
-    image: '/NOS_1.jpg',
+    image: '/DavydTalisson2/NOS_1.jpg',
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const chapters = [
     subtitle: 'Descobertas e encantos',
     description:
       'Cada dia ao seu lado era uma descoberta. Seu jeito de sorrir, sua risada contagiante, seu abraco que sempre me acalmava. Eu fui aprendendo a te amar em cada detalhe.',
-    image: '/NOS_2.jpg',
+    image: '/DavydTalisson2/NOS_2.jpg',
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const chapters = [
     subtitle: 'Momentos inesqueciveis',
     description:
       'Construímos memorias em cada canto, em cada viagem, em cada tarde preguicosa. Cada momento com voce se tornou um pedacinho do ceu aqui na Terra.',
-    image: '/NOS_3.jpg',
+    image: '/DavydTalisson2/NOS_3.jpg',
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const chapters = [
     subtitle: 'Uma promessa de amor eterno',
     description:
       'Hoje, olho para voce e vejo meu futuro inteiro. Voce e meu porto seguro, minha razao de sorrir, meu verdadeiro amor. Prometo te amar para sempre.',
-    image: '/NOS_4.jpg',
+    image: '/DavydTalisson2/NOS_4.jpg',
   },
 ];
 
@@ -52,7 +52,7 @@ export function SobrePage() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('/NOS_5.jpeg')`,
+            backgroundImage: `url('DavydTalisson2/NOS_5.jpeg')`,
           }}
         />
         <div className="hero-overlay" />
@@ -160,12 +160,12 @@ function PhotoGallery() {
   const [ref, isVisible] = useScrollReveal<HTMLDivElement>();
 
   const photos = [
-    '/NOS_1.jpg',
-    '/NOS_2.jpg',
-    '/NOS_3.jpg',
-    '/NOS_4.jpg',
-    '/NOS_5.jpeg',
-    '/NOS_6.jpg',
+    'DavydTalisson2/NOS_1.jpg',
+    'DavydTalisson2/NOS_2.jpg',
+    'DavydTalisson2/NOS_3.jpg',
+    'DavydTalisson2/NOS_4.jpg',
+    'DavydTalisson2/NOS_5.jpeg',
+    'DavydTalisson2/NOS_6.jpg',
   ];
 
   return (
