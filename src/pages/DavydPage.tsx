@@ -5,25 +5,29 @@ import { Carousel } from '../components/Carousel';
 import { useScrollReveal } from '../hooks/useScrollReveal';
 
 const sections = [
-  {
-    id: 'nos',
-    title: 'Nos',
+   {
+    id: 'davyd',
+    title: 'Davyd',
     description:
-      'Nos dois e onde encontro minha paz. Cada momento ao seu lado e uma bencao, cada sorriso seu ilumina meu dia. Voce e eu somos a melhor equipe do mundo.',
+      'Tem pessoas que carregam uma luz diferente, e você é uma delas. Tem um coração enorme, um sorriso que transmite paz e um jeito de cuidar de quem ama que encanta. É forte, dedicado, gentil e tem uma bondade que faz qualquer lugar ficar mais leve. Hoje é o seu dia, Davynho. Que Deus continue abençoando cada passo da sua vida e te permitindo continuar sendo exatamente essa pessoa tão especial. Feliz aniversário! 🤍✨',
     images: [
-      '/DavydTalisson2/NOS_1.jpg',
-      '/DavydTalisson2/NOS_2.jpg',
-      '/DavydTalisson2/NOS_3.jpg',
-      '/DavydTalisson2/NOS_4.jpg',
-      '/DavydTalisson2/NOS_5.jpeg',
-      '/DavydTalisson2/NOS_6.jpg',
+      '/DavydTalisson2/DAVYD_1.jpg',
+      '/DavydTalisson2/DAVYD_2.jpg',
+      '/DavydTalisson2/DAVYD_3.jpg',
+      '/DavydTalisson2/DAVYD_4.jpg',
+      '/DavydTalisson2/DAVYD_5.jpeg',
+      '/DavydTalisson2/DAVYD_6.jpeg',
+      '/DavydTalisson2/DAVYD_7.jpeg',
+      '/DavydTalisson2/DAVYD_8.jpeg',
+      '/DavydTalisson2/DAVYD_9.jpeg',
+      '/DavydTalisson2/DAVYD_10.jpeg',
     ],
-  },
+  }, 
   {
     id: 'familia',
     title: 'Familia',
     description:
-      'Sua familia te ama profundamente. O carinho e o respeito que voce tem por eles refletem o homem maravilhoso que voce e.',
+      'Essa parte eu ainda estou descobrindo. Conheço poucas pessoas da sua família, mas todas me passaram uma sensação muito boa e demonstraram o quanto você é amado. A tia Vera é muito acolhedora e transmite um carinho enorme por você. A Jéssica, que conheci há pouco tempo, já conquistou minha admiração pela pequena parte da história dela que conheço. A Ellen eu nem preciso comentar: adoro ela em todos os aspectos. E sua avó, apesar de parecer firme, tenho a impressão de que é uma das grandes responsáveis por manter a família unida e forte. Aos poucos vou conhecendo mais pessoas, mas, pelo pouco que já vi, uma coisa é certa: você é muito amado por todos que têm o privilégio de fazer parte da sua vida.',
     images: [
       '/DavydTalisson2/FAMILIA_1.jpg',
       '/DavydTalisson2/FAMILIA_2.jpg',
@@ -35,7 +39,7 @@ const sections = [
     id: 'direito',
     title: 'Direito',
     description:
-      'Sua dedicacao aos estudos e sua paixao pela justica mostram o profissional comprometido que voce esta se tornando. Tenho orgulho de cada conquista sua.',
+      'E pensar que, de algum jeito, eu te conquistei com uma petição Kkkkk. Até hoje eu acho isso muito engraçado.Mas uma coisa que eu realmente admiro é o jeito que você leva os estudos. Dá para ver o quanto você se dedica e faz de tudo para alcançar o que sonha. Você pensa no futuro, corre atrás dos seus objetivos e não desiste fácil. Ver isso em você acaba me motivando também, porque me faz querer dar o meu melhor. Espero que, lá na frente, a gente possa olhar para trás com orgulho de toda essa caminhada e ver que valeu a pena. Você sendo um advogado de excelência, eu um programador de excelência, e nós dois realizando os sonhos que hoje ainda estamos construindo.',
     images: [
       '/DavydTalisson2/DIREITO_1.jpg',
       '/DavydTalisson2/DIREITO_2.jpg',
@@ -45,7 +49,7 @@ const sections = [
     id: 'exercito',
     title: 'Exercito',
     description:
-      'Sua forca, disciplina e honra sao inspiradoras. Voce carrega consigo valores que fazem de voce um verdadeiro soldado, dentro e fora do quartel.',
+      'O Exército faz parte da sua história, e eu gosto muito de ouvir quando você conta sobre essa época. Você fala das noites de serviço, da rotina puxada e até do dia em que precisou raspar o cabelo, sempre com um carinho especial por tudo o que viveu. Acho incrível imaginar você passando por tudo isso. Tenho certeza de que essa experiência ajudou a formar a pessoa forte, disciplinada e determinada que você é hoje. É mais uma das muitas coisas que me fazem admirar você e ter orgulho da sua história.',
     images: [
       '/DavydTalisson2/EXERCITO_1.jpeg',
       '/DavydTalisson2/EXERCITO_2.jpeg',
@@ -56,7 +60,7 @@ const sections = [
     id: 'amigos',
     title: 'Amigos',
     description:
-      'Voce sabe escolher bem as pessoas ao seu redor. Seus amigos sao prova da luz que voce emana e da lealdade que voce inspira.',
+      'Essa também é uma parte da sua vida que ainda estou descobrindo. Até agora tive a oportunidade de conhecer de verdade apenas o Ailton Júlio, e foi o suficiente para perceber que você sabe escolher muito bem as pessoas que mantém por perto.Também já ouvi falar de algumas outras pessoas, como a Lara, que me passa a impressão de ser alguém muito adorável, e a maravilhosa Stela, que, além de ser surrealmente linda, parece ter uma presença marcante. Mesmo sem conhecer todos de perto, dá para perceber que você está cercado de pessoas especiais.Aos poucos espero conhecer melhor cada um deles e fazer parte das histórias, risadas e momentos que vocês compartilham. Afinal, os amigos que escolhemos também contam um pouco sobre quem somos, e os seus parecem refletir a pessoa incrível que você é.',
     images: [
       '/DavydTalisson2/AMIGOS_1.jpg',
       '/DavydTalisson2/AMIGOS_2.jpg',
@@ -70,7 +74,7 @@ const sections = [
     id: 'padrinho',
     title: 'Padrinho',
     description:
-      'Ser padrinho e uma honra que voce carrega com orgulho. Voce guia e protege aqueles que ama com todo seu carinho.',
+      'O Miguel merece um lugar especial aqui, porque dá para perceber o quanto ele é importante para você. É muito bonito ver o carinho, a paciência e o cuidado que você tem com ele. Sempre que vocês saem juntos ou quando você fala dele, dá para notar o quanto esse vínculo é verdadeiro. Ver a forma como você trata o Miguel me fez enxergar um lado seu ainda mais bonito. Foi aí que percebi o quanto você tem um coração enorme e o quanto é fácil se apaixonar por quem você é. Isso também me faz imaginar o futuro e acreditar que, quando esse momento chegar, você será um pai maravilhoso para os nossos filhos. Só de pensar nisso, meu coração fica cheio de esperança pelo que ainda vamos viver juntos.',
     images: [
       '/DavydTalisson2/PADRINHO_1.jpg',
       '/DavydTalisson2/PADRINHO_2.jpg',
@@ -80,7 +84,7 @@ const sections = [
     id: 'nosFinal',
     title: 'Nos para Sempre',
     description:
-      'Essa historia nao tem fim. Cada dia e uma nova pagina, cada sorriso uma nova letra. Voce e meu presente de vida.',
+      'Essa foto representa um sonho. Um sonho que entrego todos os dias nas mãos de Deus, confiando que, se for da vontade dEle, um dia será a nossa realidade. Não é apenas sobre um casamento, mas sobre construir uma vida inteira ao seu lado, dividir conquistas, enfrentar desafios, criar uma família e envelhecer de mãos dadas. É sobre escolher você todos os dias, hoje e em todos os amanhãs. Se Deus permitir, quero que essa imagem deixe de ser apenas uma ideia e se torne uma lembrança do dia em que começamos oficialmente a nossa história para sempre. Porque, acima de tudo, o que eu mais desejo é viver uma vida inteira ao seu lado. Eu te amo, hoje, amanhã e por toda a minha vida.',
     images: [
       '/DavydTalisson2/NOS_FINAL.jpg',
     ],
@@ -103,7 +107,7 @@ export function DavydPage() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('/DavydTalisson2/DAVYD_4.jpg')`,
+            backgroundImage: `url('/DavydTalisson2/planodefundo.jpg')`,
             transform: `translateY(${scrollY * 0.3}px)`,
           }}
         />
@@ -143,7 +147,7 @@ export function DavydPage() {
             className="font-playfair italic text-xl md:text-2xl text-white/80 animate-fade-in-up"
             style={{ animationDelay: '0.2s' }}
           >
-            O homem que faz meu coracao sorrir
+            O homem que faz meu coracao sorrir!!
           </p>
         </div>
       </section>
@@ -183,12 +187,11 @@ function IntroSection() {
         </h2>
 
         <p className="font-inter text-neutral-600 leading-relaxed max-w-2xl mx-auto mb-6">
-          Voce e muitas coisas ao mesmo tempo: forte e carinhoso, determinado e gentil,
-          serio e brincalhao. Voce e a pessoa mais completa que ja conheci.
+          Davyd Talisson, o homem que ilumina minha vida a cada dia mais e mais e que faz meu coração transbordar de emoão toda vez que me olha.
         </p>
 
         <p className="font-inter text-neutral-600 leading-relaxed max-w-2xl mx-auto">
-          Esta pagina e uma celebracao de quem voce e, de tudo que voce conquistou,
+          Fiz esta pagina e uma celebracao de quem voce e, de tudo que voce conquistou,
           e de tudo que voce ainda vai conquistar. Eu estou aqui, torcendo por voce,
           caminhando ao seu lado.
         </p>

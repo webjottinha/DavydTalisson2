@@ -192,7 +192,7 @@ function NextSection() {
         </h2>
         <p className="font-inter text-white/70 max-w-xl mx-auto mb-10">
           Cada capítulo escrito juntos é um tesouro guardado no coração.
-          Venha relembrar nossos momentos mais especiais.
+          acabamos de começar esse capítulo, mas já temos bons momentos para lembrar.
         </p>
         <Link to="/sobre" className="btn-elegant">
           Descobrir

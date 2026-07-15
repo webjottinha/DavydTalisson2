@@ -10,32 +10,32 @@ const chapters = [
     title: 'O Inicio',
     subtitle: 'Quando tudo comeca',
     description:
-      'Foi como se o universo tivesse conspirado para nos unir. Um olhar, um sorriso, e algo dentro de mim disse que voce era especial. Naquele momento, comecou a historia mais linda da minha vida.',
+      'tudo começou de um jeito bem aleatório. Eu estava mexendo no Instagram quando apareceu um lindo homem de olhos verdes. Na mesma hora pedi para seguir. Só que ele demorou dois dias para aceitar, e eu já tava pensando que nem ia rolar. Quando ele aceitou, fui fazer o que qualquer pessoa curiosa faria: stalkeei todos os destaques. Queria saber mais sobre ele. E, sinceramente... foi ali que começou. A cada story eu ia me encantando mais. Na minha cabeça, ele parecia simplesmente perfeito. Mesmo assim, eu não tinha muita esperança de que algum dia a gente fosse conversar. Então fiquei só esperando uma oportunidade aparecer. Passaram uns dez dias, até que ele me colocou nos Melhores Amigos. Pouco depois, postou uma petição nos stories. Na hora eu pensei: *É essa a minha chance.* Respondi o story sem pensar duas vezes e puxei assunto. E foi assim, de um jeito tão simples, que começou a nossa história. Quem diria que uma resposta a um story mudaria tanta coisa na minha vida?',
     image: '/DavydTalisson2/NOS_1.jpg',
   },
   {
     id: 2,
-    title: 'Nossos Primeiros Dias',
-    subtitle: 'Descobertas e encantos',
+    title: 'Nossos Primeiro encontro',
+    subtitle: 'pingo do meio dia',
     description:
-      'Cada dia ao seu lado era uma descoberta. Seu jeito de sorrir, sua risada contagiante, seu abraco que sempre me acalmava. Eu fui aprendendo a te amar em cada detalhe.',
+      'A partir daquele momento, meu coração já estava completamente acelerado. A gente começou a conversar todos os dias, toda hora, e eu só queria conhecer cada vez mais sobre você. Quanto mais eu descobria, mais eu tinha vontade de continuar ali, conversando por horas.Depois de um tempo, descobri que você morava em Currais Novos e que tinha família em Mossoró, justamente a cidade onde minha irmã morava e para onde eu iria me mudar futuramente. Parecia até uma daquelas coincidências que a vida faz de propósito. Os meses foram passando, mas a intensidade da nossa conversa continuava a mesma. O mais engraçado é que nunca faltava assunto. A gente falava de tudo, ria de tudo e, sem perceber, foi criando uma conexão que eu nunca tinha sentido antes. Até que chegou o grande dia. Eu finalmente vim morar em Mossoró e a gente marcou de se encontrar no Pingo da Mei Dia. Passei o dia inteiro ansioso, contando as horas. Mas, quando te vi, toda a ansiedade desapareceu. Era como se eu já te conhecesse há anos. Não teve vergonha, não teve silêncio estranho, não teve aquele clima de "primeiro encontro". Parecia que a gente só estava continuando uma conversa que já vinha acontecendo há muito tempo. Naquele momento eu tive certeza de que a conexão que existia entre nós era tão real quanto eu imaginava. E isso só fez eu gostar ainda mais de você.',
     image: '/DavydTalisson2/NOS_2.jpg',
   },
   {
     id: 3,
-    title: 'Construindo Juntos',
-    subtitle: 'Momentos inesqueciveis',
+    title: 'Primeira festa',
+    subtitle: 'primeira vez',
     description:
-      'Construímos memorias em cada canto, em cada viagem, em cada tarde preguicosa. Cada momento com voce se tornou um pedacinho do ceu aqui na Terra.',
+      'Depois do nosso primeiro encontro, você voltou para Currais Novos, mas fez uma promessa: na semana seguinte estaria de volta. E, como sempre, você cumpriu. Marcamos de ir para a festa juntos, e eu já estava morrendo de saudade. Queria te ver de novo de qualquer jeito. Só que apareceu um problema: minha irmã não iria para a festa e, sem ela, eu também não teria como voltar para casa. Foi aí que surgiu a ideia de dormir na casa da sua prima. Sinceramente, eu achava que minha irmã nunca deixaria. Mas, para a minha surpresa, ela deixou. quele dia, você foi me buscar na faculdade depois que minhas aulas terminaram. Fomos para a casa da sua prima, nos arrumamos para a festa e seguimos para viver mais uma noite que ficou marcada na minha memória. Cantamos, rimos, aproveitamos cada segundo e, no meio de toda aquela multidão, parecia que só existíamos nós dois. Quando voltamos para casa, deitamos para descansar e, naquela noite, eu escolhi me entregar a você por inteiro. Não foi apenas sobre um momento, foi sobre confiança, carinho e a certeza de que meu coração já tinha encontrado o lugar onde queria estar.',
     image: '/DavydTalisson2/NOS_3.jpg',
   },
   {
     id: 4,
-    title: 'Para Sempre',
-    subtitle: 'Uma promessa de amor eterno',
+    title: 'aqui estamos',
+    subtitle: 'futuro',
     description:
-      'Hoje, olho para voce e vejo meu futuro inteiro. Voce e meu porto seguro, minha razao de sorrir, meu verdadeiro amor. Prometo te amar para sempre.',
-    image: '/DavydTalisson2/NOS_4.jpg',
+      'E o resto da nossa história... Depois de tudo isso, olha onde a gente chegou. Continuamos aqui, firmes e fortes, e, se tem uma coisa que mudou desde aquela primeira conversa no Instagram, foi a intensidade do que eu sinto por você. A cada dia que passa, eu te amo mais. Nem a saudade consegue diminuir isso; na verdade, ela só faz aumentar a vontade de te ver, de te abraçar e de viver mais momentos ao seu lado. Hoje, quando penso no futuro, é você quem eu imagino comigo. Penso nos nossos empregos, na nossa casa, no nosso casamento, nos nossos filhos, nas nossas viagens e em todas as conquistas que ainda vamos viver. Não porque tudo será perfeito, mas porque sei que, com você, qualquer caminho vale a pena. Obrigado por ter respondido uma simples mensagem e, sem saber, ter mudado completamente a minha vida. Se hoje eu pudesse fazer um único pedido a Deus, seria que essa história nunca tivesse um fim. Que ela seja para sempre.',
+    image: '/DavydTalisson2/NOS_5.jpg',
   },
 ];
 
