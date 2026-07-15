@@ -52,7 +52,7 @@ export function SobrePage() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('DavydTalisson2/NOS_1.jpeg')`,
+            backgroundImage: `url('/DavydTalisson2/NOS_1.jpeg')`,
           }}
         />
         <div className="hero-overlay" />
@@ -160,10 +160,11 @@ function PhotoGallery() {
   const [ref, isVisible] = useScrollReveal<HTMLDivElement>();
 
   const photos = [
-    'DavydTalisson2/NOS_2.jpg',
-    'DavydTalisson2/NOS_3.jpg',
-    'DavydTalisson2/NOS_5.jpeg',
-    'DavydTalisson2/NOS_6.jpg',
+    '/DavydTalisson2/NOS_1.jpg',
+    '/DavydTalisson2/NOS_2.jpg',
+    '/DavydTalisson2/NOS_3.jpg',
+    '/DavydTalisson2/NOS_5.jpeg',
+    '/DavydTalisson2/NOS_6.jpg',
   ];
 
   return (
