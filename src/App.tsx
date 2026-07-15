@@ -54,7 +54,7 @@ function AppContent({ menuOpen, setMenuOpen }: AppContentProps) {
     // These are placeholder paths - replace with actual audio files
     switch (location.pathname) {
       case '/':
-        return `${base}home.mp3`;
+        return '${base}home.mp3';
       case '/sobre':
         return '${base}sobre.mp3';
       case '/davyd':
