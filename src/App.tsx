@@ -17,7 +17,7 @@ function App() {
   };
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       {/* Splash Screen */}
       {showSplash && (
         <SplashScreen onComplete={handleSplashComplete} duration={3500} />

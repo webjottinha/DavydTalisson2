@@ -163,7 +163,6 @@ function PhotoGallery() {
     'DavydTalisson2/NOS_1.jpg',
     'DavydTalisson2/NOS_2.jpg',
     'DavydTalisson2/NOS_3.jpg',
-    'DavydTalisson2/NOS_4.jpg',
     'DavydTalisson2/NOS_5.jpeg',
     'DavydTalisson2/NOS_6.jpg',
   ];
@@ -213,7 +212,7 @@ function NextSection() {
         <p className="font-inter text-neutral-600 max-w-xl mx-auto mb-10">
           Descubra mais sobre a pessoa incrível que faz meu coração bater mais forte.
         </p>
-        <Link to="/davyd" className="btn-elegant">
+        <Link to="/davyd" className="btn-elegante">
           Conhecer Davyd
         </Link>
       </div>

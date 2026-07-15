@@ -101,48 +101,64 @@ function FinalScreen() {
             fill="currentColor"
           />
         </div>
+              <div className="max-w-5xl mx-auto px-6 md:px-10 py-12">
+  <div
+    className="
+      bg-[#f8f1de]
+      rounded-2xl
+      shadow-2xl
+      border border-[#d8c7a1]
+      p-8 md:p-14
+      relative
+      overflow-hidden
+    "
+  >
 
         {/* Message */}
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-playfair text-3xl text-[#5a4632] mb-8">
+          
 Meu amor,    
     </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
           Às vezes eu paro para pensar em como Deus escreve histórias que a gente nunca seria capaz de imaginar. Existem pessoas que entram na nossa vida para somar, para ensinar alguma coisa, para deixar boas lembranças e seguir o próprio caminho. Mas você nunca foi só mais uma pessoa.
         </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
 Você não entrou na minha vida para somar. Você entrou para ser a minha vida        </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
           Eu sei que essa frase parece grande demais, mas ela ainda é pequena perto do que eu sinto por você. Desde que você chegou, tudo ganhou um significado diferente. Os dias ficaram mais leves, os sorrisos mais sinceros e até os momentos difíceis deixaram de parecer impossíveis. Você se tornou o meu lugar favorito, a minha paz em meio ao caos e o motivo pelo qual hoje eu consigo acreditar tanto no amanhã.
         </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
           Ter você em meus braços é uma das melhores sensações que eu já vivi. Ouvir a sua voz, sentir o seu carinho, fazer carinho em você, olhar nos seus olhos e simplesmente estar ao seu lado faz meu coração sentir uma paz que eu nunca conheci. Você despertou em mim sentimentos que eu nem sabia que existiam. Um amor tão puro, tão verdadeiro e tão intenso que me curou de dores que eu já tinha aprendido a esconder.
         </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
          Você é muito mais do que um namorado. Você é a prova de que Deus nunca deixou de cuidar de mim. Quando eu já não conseguia enxergar esperança, Ele colocou você no meu caminho. Quando eu já não tinha tanta vontade de acreditar no futuro, Ele fez você se tornar a raiz de tudo aquilo que hoje eu sonho em construir. Você devolveu vida aos meus sonhos e fez florescer em mim uma felicidade que eu achava impossível viver.
         </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
 Talvez você nunca tenha noção do quanto mudou a minha história. Você chegou sem fazer promessas, mas cumpriu coisas que nem eu mesma imaginava precisar. Você me fez entender que amar não é apenas dizer "eu te amo". Amar é cuidar, respeitar, escolher a mesma pessoa todos os dias e encontrar paz simplesmente por saber que ela existe.        </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
 Mesmo com a distância, eu sinto você perto de mim. É estranho explicar, mas é como se uma parte do meu coração estivesse sempre ao seu lado. Em tudo o que acontece de bom, penso em você primeiro. Em todos os planos que faço, você já está incluído. Quando imagino o meu futuro, não consigo enxergar um caminho onde você não esteja segurando a minha mão.        </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
          Eu sonho com a nossa casa, com as nossas conquistas, com as nossas viagens, com as nossas risadas espalhadas pelos cômodos e até com os desafios que vamos enfrentar juntos, porque sei que, ao seu lado, qualquer dificuldade fica menor. Eu sonho em construir uma família com você, envelhecer ao seu lado e continuar escolhendo você todos os dias, exatamente como escolho hoje.
         </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
 Obrigada por existir. Obrigada por me amar de um jeito tão bonito. Obrigada por cuidar de mim, por me fazer sorrir, por ser meu porto seguro e por me mostrar, todos os dias, que o amor pode ser leve, verdadeiro e capaz de curar.        </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
 Eu peço a Deus que continue abençoando a nossa história, fortalecendo o nosso amor e preparando cada passo do futuro que tanto sonhamos. Que nunca nos falte fé, diálogo, respeito e carinho. E que, independentemente do tempo, da distância ou das dificuldades, a gente nunca deixe de escolher um ao outro.        </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
          Eu amo você de um jeito que nenhuma carta conseguiria explicar por completo. Mas, se existe uma certeza que eu tenho nesta vida, é que, entre todas as pessoas que poderiam ter cruzado o meu caminho, Deus escolheu justamente você para caminhar ao meu lado.
         </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
 porque você não entrou na minha vida para somar. Você entrou para ser a minha vida.  Com todo o meu amor,
      </p>
-        <p className="font-inter text-white/80 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-4">
+        <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
 do seu amor.
         </p>
         <p className="font-playfair italic text-gold-400 text-xl md:text-2xl">
           Eu te amo, Davyd.
         </p>
+        </div>
+                </div>
+
 
         {/* Decorative Line */}
         <div className="flex items-center justify-center gap-4 mt-12">

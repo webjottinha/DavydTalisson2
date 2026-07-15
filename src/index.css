@@ -159,7 +159,7 @@ body {
   font-size: 14px;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #020202;
+  color: #ffffff;
   background: transparent;
   border: 1px solid rgba(212, 175, 55, 0.6);
   cursor: pointer;
@@ -185,6 +185,43 @@ body {
 }
 
 .btn-elegant:hover::before {
+  left: 100%;
+}
+/* Elegant Button */
+.btn-elegante {
+  position: relative;
+  padding: 16px 48px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #020202;
+  background: transparent;
+  border: 1px solid rgba(212, 175, 55, 0.6);
+  cursor: pointer;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-elegante::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(212, 175, 55, 0.3), transparent);
+  transition: left 0.5s ease;
+}
+
+.btn-elegante:hover {
+  border-color: #D4AF37;
+  background: rgba(212, 175, 55, 0.1);
+  box-shadow: 0 8px 32px rgba(212, 175, 55, 0.3);
+}
+
+.btn-elegante:hover::before {
   left: 100%;
 }
 
