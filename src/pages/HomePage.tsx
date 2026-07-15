@@ -176,7 +176,7 @@ function NextSection() {
 
   return (
     <section className="py-24 md:py-32 px-6 bg-neutral-900 relative overflow-hidden">
-      <Particles count={15} color="rgba(212, 175, 55, 0.4)" />
+      <Particles count={15} color="rgba(211, 175, 55, 0.4)" />
 
       <div
         ref={ref}

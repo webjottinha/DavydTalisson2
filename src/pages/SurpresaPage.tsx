@@ -69,13 +69,12 @@ function FinalScreen() {
   }, []);
 
   return (
-    <div className="fixed inset-0 bg-gradient-to-b from-neutral-900 via-neutral-800 to-neutral-900 flex flex-col items-center justify-center overflow-hidden">
-      {/* Particles */}
+      <div className="fixed inset-0 bg-gradient-to-b from-neutral-900 via-neutral-800 to-neutral-900 flex flex-col items-center justify-center overflow-hidden">      {/* Particles */}
       <Particles count={50} color="rgba(212, 175, 55, 0.4)" />
 
       {/* Content */}
-      <div
-        className={`relative z-10 text-center px-6 transition-all duration-1000 ${
+     <div
+  className={`relative z-10 max-w-5xl mx-auto py-20 px-6 transition-all duration-1000 ${
           showContent ? 'opacity-100 scale-100' : 'opacity-0 scale-95'
         }`}
       >
@@ -102,21 +101,21 @@ function FinalScreen() {
           />
         </div>
               <div className="max-w-5xl mx-auto px-6 md:px-10 py-12">
-  <div
-    className="
+<div
+  className="
+      w-full
       bg-[#f8f1de]
       rounded-2xl
       shadow-2xl
       border border-[#d8c7a1]
-      p-8 md:p-14
+      p-6 md:p-12
       relative
-      overflow-hidden
-    "
-  >
-
+"
+>
+S
         {/* Message */}
         <p className="font-playfair text-3xl text-[#5a4632] mb-8">
-          
+
 Meu amor,    
     </p>
         <p className="font-inter text-[#4b3b2a] text-base md:text-lg leading-9 mb-6 text-justify">
