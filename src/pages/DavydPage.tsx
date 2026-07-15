@@ -12,8 +12,8 @@ const sections = [
       'Tem pessoas que carregam uma luz diferente, e você é uma delas. Tem um coração enorme, um sorriso que transmite paz e um jeito de cuidar de quem ama que encanta. É forte, dedicado, gentil e tem uma bondade que faz qualquer lugar ficar mais leve. Hoje é o seu dia, Davynho. Que Deus continue abençoando cada passo da sua vida e te permitindo continuar sendo exatamente essa pessoa tão especial. Feliz aniversário! 🤍✨',
     images: [
       '/DavydTalisson2/DAVYD_1.jpg',
-      '/DavydTalisson2/DAVYD_2.jpg',
-      '/DavydTalisson2/DAVYD_3.jpg',
+      '/DavydTalisson2/DAVYD_2.jpeg',
+      '/DavydTalisson2/DAVYD_3.jpeg',
       '/DavydTalisson2/DAVYD_4.jpg',
       '/DavydTalisson2/DAVYD_5.jpeg',
       '/DavydTalisson2/DAVYD_6.jpeg',
