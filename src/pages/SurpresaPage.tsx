@@ -169,7 +169,7 @@ do seu amor.
 
         {/* Date */}
         <p className="font-inter text-white/40 text-sm mt-8 tracking-widest">
-          2024 &middot; PARA SEMPRE
+          2026 &middot; PARA SEMPRE
         </p>
       </div>
 

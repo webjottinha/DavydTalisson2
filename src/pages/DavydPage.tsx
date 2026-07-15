@@ -33,6 +33,8 @@ const sections = [
       '/DavydTalisson2/FAMILIA_2.jpg',
       '/DavydTalisson2/FAMILIA_3.jpg',
       '/DavydTalisson2/FAMILIA_4.jpg',
+      '/DavydTalisson2/FAMILIA_5.jpeg',
+      '/DavydTalisson2/FAMILIA_6.jpeg',
     ],
   },
   {
