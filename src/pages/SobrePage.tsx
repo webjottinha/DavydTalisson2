@@ -35,7 +35,7 @@ const chapters = [
     subtitle: 'futuro',
     description:
       'E o resto da nossa história... Depois de tudo isso, olha onde a gente chegou. Continuamos aqui, firmes e fortes, e, se tem uma coisa que mudou desde aquela primeira conversa no Instagram, foi a intensidade do que eu sinto por você. A cada dia que passa, eu te amo mais. Nem a saudade consegue diminuir isso; na verdade, ela só faz aumentar a vontade de te ver, de te abraçar e de viver mais momentos ao seu lado. Hoje, quando penso no futuro, é você quem eu imagino comigo. Penso nos nossos empregos, na nossa casa, no nosso casamento, nos nossos filhos, nas nossas viagens e em todas as conquistas que ainda vamos viver. Não porque tudo será perfeito, mas porque sei que, com você, qualquer caminho vale a pena. Obrigado por ter respondido uma simples mensagem e, sem saber, ter mudado completamente a minha vida. Se hoje eu pudesse fazer um único pedido a Deus, seria que essa história nunca tivesse um fim. Que ela seja para sempre.',
-    image: '/DavydTalisson2/NOS_5.jpg',
+    image: '/DavydTalisson2/NOS_5.jpeg',
   },
 ];
 
