@@ -193,9 +193,23 @@ export function DavydPage() {
 
   useEffect(() => {
     window.scrollTo(0, 0);
+
     const handleScroll = () => setScrollY(window.scrollY);
     window.addEventListener('scroll', handleScroll, { passive: true });
-    return () => window.removeEventListener('scroll', handleScroll);
+
+    const audio = new Audio('/DavydTalisson2/davyd.mp3');
+    audio.loop = true;
+    audio.volume = 0.5;
+
+    audio.play().catch(() => {
+      console.log('O navegador bloqueou o autoplay.');
+    });
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      audio.pause();
+      audio.currentTime = 0;
+    };
   }, []);
 
   return (
